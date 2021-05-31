@@ -6,7 +6,6 @@ Talk is cheap, here is a typescript class describes me as a programmer
 @FancyGithubPage()
 class AlexXanderGrib extends Human implements Programmer {
   @Use(Prettier, Eslint)
-  // But they don't work in Markdown
   activeTechnologyStack = [
     "js", "ts", "react", "svelte" 
   ];
