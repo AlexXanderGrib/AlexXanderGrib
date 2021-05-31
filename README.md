@@ -4,26 +4,22 @@ Talk is cheap, here is a typescript class describes me as a programmer
 
 ```typescript
 @FancyGithubPage()
-@Singleton() // kw static is too big
-class AlexXanderGrib extends Human implements ProgrammerDTO {
+class AlexXanderGrib extends Human implements Programmer {
   @Use(Prettier, Eslint)
   // But they don't work in Markdown
-  public readonly activeTechnologyStack = [
+  activeTechnologyStack = [
     "js", "ts", "react", "svelte" 
   ]
 
-  public readonly portfolio = {
-    projects: [
-      "github:AlexXanderGrib/sweet-decorators",
-      "github:AlexXanderGrib/node-qiwi-sdk",
-      "github:AlexXanderGrib/yoomoney-sdk"
-    ],
-    appsCreated: [
-      "https://superellipse.xxhax.com",
-      "https://aye-kosmonavt.xxhax.com",
-      "https://🅰🅱🅾🅱🅰.уфсб.рф"
-    ]
+  portfolio = {
+    // see down there
   };
+
+  async doCode(motivation: 💰, fuel: ☕): Code {
+    await sleep('10h') // procrastination
+
+    // actual coding
+  }
 
   /* other human stuff goes there */
 }
