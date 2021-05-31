@@ -9,12 +9,8 @@ class AlexXanderGrib extends Human implements Programmer {
   // But they don't work in Markdown
   activeTechnologyStack = [
     "js", "ts", "react", "svelte" 
-  ]
-
-  portfolio = {
-    // see down there
-  };
-
+  ];
+  
   async doCode(motivation: 💰, fuel: ☕): Code {
     await sleep('10h') // procrastination
 
