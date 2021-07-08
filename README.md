@@ -20,7 +20,13 @@ class AlexXanderGrib extends Human implements Programmer {
 }
 ```
 
-## Links
+## 🏆 Statistics
+![](https://visitor-badge.laobi.icu/badge?page_id=AlexXanderGrib.AlexXanderGrib) [![Github](https://img.shields.io/github/followers/AlexXanderGrib?label=Follow&style=social)](https://github.com/AlexXanderGrib)
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexXanderGrib&show_icons=true&theme=tokyonight) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexXanderGrib&theme=tokyonight)
+
+## 🔗 Links
 
 ### Projects
 
@@ -39,10 +45,8 @@ SuperEllipse (or Squircle) is a beautiful figure that looks like rounded rectang
 
 https://superellipse.xxhax.com
 
-#### Aye Kosmonavt
-
-https://aye-kosmonavt.xxhax.com
-
 #### 🅰🅱🅾🅱🅰
 
 [https://🅰🅱🅾🅱🅰.уфсб.рф](https://xn--037haca8d.xn--90a5afe.xn--p1ai)
+
+
