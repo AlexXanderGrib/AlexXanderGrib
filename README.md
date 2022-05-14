@@ -17,7 +17,7 @@
 
 ## Dance hall
 
-<center>
+<p align="left">
   <img src="./ricardo-milos.gif" width="50" />
   <img src="./ricardo-milos.gif" width="50" />
   <img src="./ricardo-milos.gif" width="50" />
@@ -55,7 +55,37 @@
   <img src="./ricardo-milos.gif" width="50" />
   <img src="./ricardo-milos.gif" width="50" />
   <img src="./ricardo-milos.gif" width="50" />
-</center>
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+  <img src="./ricardo-milos.gif" width="50" />
+</p>
 
 ## Shrek's Script
 
