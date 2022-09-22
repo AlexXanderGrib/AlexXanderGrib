@@ -1,6 +1,6 @@
 # Alexander
 
-> CEO of [XHT](https://github.com/xxhax-team) and CTO at [EXID](https://github.com/exid-dev). Senior typescript developer, focused on `Payments`, `WebRTC` & `Cryptography`. NPM package SEO specialist.
+![Hedgehog](https://sun9-57.userapi.com/impg/Nxr3vfG3eu0fy2dVrqWCQ2qkat0MGCxhgOItFQ/AKO59f8LO50.jpg?size=720x720&quality=96&sign=639a4213b2c12fd892b7371d6981fcfa&type=album)
 
 ## Some of my open source packages
 
