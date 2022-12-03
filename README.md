@@ -39,21 +39,21 @@ _This was my attempt to create [trpc](https://github.com/trpc/trpc) alternative.
 
 ### Bot for Telegram/VK:
 
-| Link                                                                                                           | Description                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [xxhax-team/captcha-bot](https://github.com/xxhax-team/captcha-bot)                                            | bot for protecting VK chats from bots using on-join captcha.                                                              |
-| [AlexXanderGrib/draw-on-desk-bot](https://github.com/AlexXanderGrib/draw-on-desk-bot) _(soon to be published)_ | bot to process images using **OpenCV** so they look like they been drawn on a desk using a pen.                           |
-| [AlexXanderGrib/brawl-gamble-bot](https://github.com/AlexXanderGrib/brawl-gamble-bot) _(soon to be published)_ | bot to **increase retention** and conversion in Brawl Stars related VK community.                                         |
-| ⭐ [AlexXanderGrib/tg-admin-bot](https://github.com/AlexXanderGrib/tg-admin-bot) _(soon to be published)_      | blazing fast bot to moderate Telegram chats with powerfully capabilities provide by [TDLib](https://github.com/tdlib/td). |
+| Link                                                                                                      | Description                                                                                                               |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [xxhax-team/captcha-bot](https://github.com/xxhax-team/captcha-bot)                                       | bot for protecting VK chats from bots using on-join captcha.                                                              |
+| [AlexXanderGrib/draw-on-desk-bot](https://github.com/AlexXanderGrib/draw-on-desk-bot)                     | bot to process images using **OpenCV** so they look like they been drawn on a desk using a pen.                           |
+| [AlexXanderGrib/brawl-gamble-bot](https://github.com/AlexXanderGrib/brawl-gamble-bot)                     | bot to **increase retention** and conversion in Brawl Stars related VK community.                                         |
+| ⭐ [AlexXanderGrib/tg-admin-bot](https://github.com/AlexXanderGrib/tg-admin-bot) _(soon to be published)_ | blazing fast bot to moderate Telegram chats with powerfully capabilities provide by [TDLib](https://github.com/tdlib/td). |
 
 ### Working with Low-Level:
 
-| Link                                                                                                  | Description                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [AlexXanderGrib/node-tdlib](https://github.com/AlexXanderGrib/node-tdlib)                             | TDLib wrapper for NodeJS heavily inspired by [Bannerets/tdl](https://github.com/Bannerets/tdl)                                                                  |
-| ⭐ [AlexXanderGrib/ts-struct](https://AlexXanderGrib/ts-struct)                                       | Strongly typed binary serializer.                                                                                                                               |
-| [xxhax-team/ntp-client-promise](https://github.com/xxhax-team/ntp-client-promise)                     | Net time protocol client.                                                                                                                                       |
-| ⭐ [AlexXanderGrib/ip-capture](https://github.com/AlexXanderGrib/ip-capture) _(soon to be published)_ | Console app to perform **ARP Spoofing** attack on XBOX/PS gaming console to capture IPs of nearby players in games like **GTA Online and Red Dead Redemption**. |
+| Link                                                                              | Description                                                                                                                                                     |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AlexXanderGrib/node-tdlib](https://github.com/AlexXanderGrib/node-tdlib)         | TDLib wrapper for NodeJS heavily inspired by [Bannerets/tdl](https://github.com/Bannerets/tdl)                                                                  |
+| ⭐ [AlexXanderGrib/ts-struct](https://AlexXanderGrib/ts-struct)                   | Strongly typed binary serializer.                                                                                                                               |
+| [xxhax-team/ntp-client-promise](https://github.com/xxhax-team/ntp-client-promise) | Net time protocol client.                                                                                                                                       |
+| ⭐ [AlexXanderGrib/ip-capture](https://github.com/AlexXanderGrib/ip-capture)      | Console app to perform **ARP Spoofing** attack on XBOX/PS gaming console to capture IPs of nearby players in games like **GTA Online and Red Dead Redemption**. |
 
 ## My Contributions
 
@@ -61,7 +61,6 @@ _This was my attempt to create [trpc](https://github.com/trpc/trpc) alternative.
 - [JSMonk's sweet monads: Identity monand + rust-like `unwrap()`](https://github.com/JSMonk/sweet-monads/pull/46)
 - [Negezor's VK IO: Better README.md design](https://github.com/negezor/vk-io/pull/489)
 - [Layere's Whoiser: Added Typescript typings](https://github.com/LayeredStudio/whoiser/pull/34)
-
 
 ### My other Projects:
 
