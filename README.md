@@ -42,9 +42,9 @@ _This was my attempt to create [trpc](https://github.com/trpc/trpc) alternative.
 | Link                                                                                                      | Description                                                                                                               |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | [xxhax-team/captcha-bot](https://github.com/xxhax-team/captcha-bot)                                       | bot for protecting VK chats from bots using on-join captcha.                                                              |
-| [AlexXanderGrib/draw-on-desk-bot](https://github.com/AlexXanderGrib/draw-on-desk-bot)                     | bot to process images using **OpenCV** so they look like they been drawn on a desk using a pen.                           |
+| ⭐ [AlexXanderGrib/draw-on-desk-bot](https://github.com/AlexXanderGrib/draw-on-desk-bot)                     | bot to process images using **OpenCV** so they look like they been drawn on a desk using a pen.                           |
 | [AlexXanderGrib/brawl-gamble-bot](https://github.com/AlexXanderGrib/brawl-gamble-bot)                     | bot to **increase retention** and conversion in Brawl Stars related VK community.                                         |
-| ⭐ [AlexXanderGrib/tg-admin-bot](https://github.com/AlexXanderGrib/tg-admin-bot) _(soon to be published)_ | blazing fast bot to moderate Telegram chats with powerfully capabilities provide by [TDLib](https://github.com/tdlib/td). |
+| [AlexXanderGrib/tg-admin-bot](https://github.com/AlexXanderGrib/tg-admin-bot) _(soon to be published)_ | blazing fast bot to moderate Telegram chats with powerfully capabilities provide by [TDLib](https://github.com/tdlib/td). |
 
 ### Working with Low-Level:
 
