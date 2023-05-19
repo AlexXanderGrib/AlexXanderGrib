@@ -1,6 +1,8 @@
 # Hi, im Alexander 👋
 
-[**Website**](https://alexxgrib.me) &bull; [**Telegram**](https://t.me/AlexXanderGrib) &bull; [**Repository Archive (Other Account)**](https://github.com/alexxgrib)
+[**Website**](https://alexxgrib.me) &bull; [**Telegram**](https://t.me/AlexXanderGrib) &bull; [**Repository Archive (Other Account)**](https://github.com/alexxgrib) 
+
+> [**Перейти на Русский 🇷🇺**](./ru.md)
 
 ## Projects & Areas of Expertise
 
