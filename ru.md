@@ -20,7 +20,7 @@
   - [Игровой бот](https://github.com/alexxgrib/brawl-gamble-bot)
   - [@guardcore_bot](https://t.me/guardcore_bot) (код закрыт)
 - 🌐 **Веб-разработка:**
-  - [dicraft.net](https://dicraft.net) ([repo](https://github.com/AlexXanderGrib/dicraft.net)) - сайт сервера Minecraft
+  - [dicraft.net](https://dicraft.net) ([код](https://github.com/AlexXanderGrib/dicraft.net)) - сайт сервера Minecraft
   - [superellipse.xxhax.com](https://superellipse.xxhax.com/) - Инструмент для создания прямоугольников SVG с естественными кривыми ([Wikipedia](https://en.wikipedia.org/wiki/Superellipse))
   - [ip.xxhax.com](https://ip.xxhax.com/) - Сервис проверки IP
 
