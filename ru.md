@@ -1,8 +1,6 @@
 # Привет, я Александр 👋
 
-[**Сайт**](https://alexxgrib.me) &bull; [**Telegram**](https://t.me/AlexXanderGrib) &bull; [**Архив репозиториев (другой аккаунт)**](https://github.com/alexxgrib)
-
-> [Switch to English](./README.md)
+[**Сайт**](https://alexxgrib.me) &bull; [**Telegram**](https://t.me/AlexXanderGrib) &bull; [Switch to English](./README.md)
 
 ## Проекты и области знаний
 
