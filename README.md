@@ -32,7 +32,7 @@
 
 ## Work
 
-| Employer      | Job                                                 |
+| Customer      | Job                                                 |
 | ------------- | --------------------------------------------------- |
 | EXID          | Developed WebRTC video communication platform       |
 | United Russia | Automated work in Telegram, Poster Design           |
