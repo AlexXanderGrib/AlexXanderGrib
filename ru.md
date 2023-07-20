@@ -29,15 +29,6 @@
 - [negezor/vk-io](https://github.com/negezor/vk-io/pull/489): Улучшенный дизайн README.md
 - [LayeredStudio/whoiser](https://github.com/LayeredStudio/whoiser/pull/34): добавлены типы Typescript.
 
-## Работа
-
-| Заказчик    | Работа                                              |
-| ------------- | --------------------------------------------------- |
-| EXID          | Разработал платформа для видеосвязи WebRTC          |
-| Единая Россия | Автоматизировал работу в Telegram, Дизайнил постеры |
-| Nano Exchange | Интегрировал QIWI и YooMoney                        |
-| XHT           | Веб-утилиты, серверы Minecraft, Прочий фриланс      |
-
 ## Статистика
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexXanderGrib&show_icons=true&theme=tokyonight)
